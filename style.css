@@ -1,1 +1,12 @@
-&
+.col-md-8{
+    background-color: deeppink;
+    border: black 5px solid;
+}
+.col-6.col-md-4{
+    background-color: red ;
+    border: indigo 5px solid;
+}
+.col-6{
+    background-color: lawngreen;
+    border: green 5px solid;
+}
